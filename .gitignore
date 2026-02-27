@@ -77,6 +77,10 @@ checkpoints/
 *.md
 !README.md
 !CONTRIBUTING.md
+!SETUP.md
+!API.md
+!ARCHITECTURE.md
+!EXAMPLES.md
 # Ignore temporary documentation files
 TESTING.md
 TESTING_QUICK_START.md
